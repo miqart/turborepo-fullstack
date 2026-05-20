@@ -1,0 +1,10 @@
+{
+  "name": "@repo/types",
+  "version": "0.0.1",
+  "description": "Shared types for the repo",
+  "main": "idnex.ts",
+  "types": "idnex.ts",
+  "files": [
+    "index.ts"
+  ]
+}
